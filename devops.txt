@@ -1,0 +1,7 @@
+git 
+and github
+jenkins
+maven
+tomcat
+sonarqube
+nexus
